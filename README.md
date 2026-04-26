@@ -5,7 +5,7 @@
 
 ---
 
-## 👩🏻‍💻 About Me
+##  About Me
 I'm Norah, a passionate tech enthusiast with a strong interest in **Data Analysis** and **Programming**.  
 I enjoy exploring data, extracting insights, and building solutions that make an impact.
 
