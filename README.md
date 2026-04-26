@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://github.com/noneals/noneals/blob/main/norah%20alskran.png" width="150" style="border-radius:50%;" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Lusitana&size=25&pause=1000&color=FFB6C1&center=true&vCenter=true&width=1000&lines=Hello+👋🏻+I'm+Norah+Alskran;Data+Analysis+Enthusiast+📊;Interested+in+Data+Governance+🛡️;Game+Developer+with+Unity+🎮" alt="Typing SVG" />
+  </a>
+</p>
+
 <!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F78DA7&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Norah+👩🏻‍💻;Data+Analysis+Enthusiast+📊;Software+Engineering+Learner+💡;Exploring+Data+Governance+%26+Game+Development+🎮" />
