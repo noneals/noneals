@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Norah+👩🏻‍💻;Data+Analysis+Enthusiast+📊;Software+Engineering+Learner+💡;Exploring+Data+Governance+%26+Game+Development+🎮" />
 </p>
----
+
 
 ##  About Me
 I'm Norah, a passionate tech enthusiast with a strong interest in **Data Analysis** and **Programming**.  
