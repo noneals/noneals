@@ -22,10 +22,10 @@ I enjoy exploring data, extracting insights, and building solutions that make an
 
 ---
 
-## 🎓 Education
-- 🎓 Holberton School (Software Engineering Program)  
-- 🎓 Tuwaiq Academy  
-
+##  Education
+-  Holberton School (Software Engineering Program)  
+-  Tuwaiq Academy  
+- imam mohammad ibn saud islamic university (is)
 ---
 
 ## 🛠 Tech Stack
