@@ -64,7 +64,7 @@ I enjoy exploring data, extracting insights, and building solutions that make an
 ---
 
 ### 📫 Let's Connect
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/norah-mohammed-18aa8b20b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Norah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
