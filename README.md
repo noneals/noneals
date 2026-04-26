@@ -17,6 +17,25 @@ I enjoy exploring data, extracting insights, and building solutions that make an
 
 ---
 
+
+
+### Currently expanding my expertise in Software Engineering through👇🏻:
+
+<p align="center">
+  <img src="Apple.png" height="140" alt="Apple Developer Academy" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Tw.png" height="140" alt="Tuwaiq Academy" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Holberton.png" height="140" alt="Holberton School" />
+</p>
+
+
+
+
+
+
+
+
 ##  Education
 -  Holberton School (Software Engineering Program)  
 -  Tuwaiq Academy  
