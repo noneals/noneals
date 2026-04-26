@@ -2,17 +2,10 @@
   <img src="https://raw.githubusercontent.com/noneals/noneals/0548f3602dcb21c89e91202ca361a91d93c1f356/norah%20alskran.png" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Lusitana&size=25&pause=1000&color=FFB6C1&center=true&vCenter=true&width=1000&lines= />
-  </a>
-</p>
-
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F78DA7&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Norah+👩🏻‍💻;Data+Analysis+Enthusiast+📊;Software+Engineering+Learner+💡;Exploring+Data+Governance+%26+Game+Development+🎮" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Norah+👩🏻‍💻;Data+Analysis+Enthusiast+📊;Software+Engineering+Learner+💡;Exploring+Data+Governance+%26+Game+Development+🎮" />
 </p>
-
 ---
 
 ##  About Me
